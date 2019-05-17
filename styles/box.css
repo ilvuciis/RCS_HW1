@@ -1,0 +1,29 @@
+*, *:before, *:after {
+    box-sizing: border-box;
+}
+
+.container {
+    background-color: rgb(243, 222, 222);
+}
+
+.children {
+    width: 200px;
+    border-width: 10px;
+    border-color: gray;
+    border-style: solid;
+    padding: 15px;
+    margin: 25px;
+
+}
+
+#item1 {
+    text-align: justify;
+}
+
+#s1 {
+    background-color: blueviolet;
+}
+
+#s2 {
+    background-color: orange;
+}
